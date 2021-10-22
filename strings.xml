@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name"> Login</string>
+    <string name="news"> NEWS </string>
+    <string name="titleRegister"> Đăng ký tài khoản</string>
+    <string name="email"> Email</string>
+    <string name="login"> Đăng nhập</string>
+    <string name="register"> <u>Đăng ký ngay</u></string>
+    <string name="username"> Tên Đăng nhập </string>
+    <string name="phone"> Số điện thoại </string>
+    <string name="password"> Mật khẩu </string>
+</resources>
